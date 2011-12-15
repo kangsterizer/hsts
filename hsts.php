@@ -1,12 +1,12 @@
 <?php
 /**
  * @package HSTS
- * @version 1.0
+ * @version 2.0
  */
 /*
 Plugin Name: HSTS - HTTP Strict Transport Security enforcement plugin
 Author: kang@insecure.ws
-Version: 1.0
+Version: 2.0
 Author URI: https://www.insecure.ws
 */
 
