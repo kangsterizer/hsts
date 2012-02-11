@@ -4,7 +4,7 @@ Donate link: http://insecure.ws/
 Tags: security, ssl, tls, hsts
 Requires at least: 3.0
 Tested up to: 3.0
-Stable tag: 1.0
+Stable tag: 2.0
 
 HSTS is HTTP Strict Transport Security, a mean to enforce using SSL even if the user access the site through HTTP and not HTTPS.
 
